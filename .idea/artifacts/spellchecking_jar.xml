@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="spellchecking:jar">
+    <output-path>$PROJECT_DIR$/../spellchecking/out/artifacts/spellchecking_jar</output-path>
+    <root id="archive" name="spellchecking.jar">
+      <element id="module-output" name="spellchecking" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JOrtho_1.0/jortho.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
